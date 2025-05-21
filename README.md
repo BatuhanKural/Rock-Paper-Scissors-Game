@@ -11,7 +11,7 @@ A simple Rock Paper Scissors game built with JavaScript, HTML, and CSS. Play aga
 
 ## 📱 Responsive Design
 
-The application works smoothly on all devices and its controls are optimized for both touchscreens and desktop use."
+The application works smoothly on all devices and its controls are optimized for both touchscreens and desktop use.
 
 ## 🛠️ Technologies Used
 
